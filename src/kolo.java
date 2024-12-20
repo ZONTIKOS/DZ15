@@ -1,4 +1,4 @@
-public class kolo implements Figure {
+public class Kolo implements Figure {
     private int diameter;
 
     public kolo(int diameter) {
