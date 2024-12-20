@@ -9,7 +9,7 @@ public class Pryamokutnyk implements Figure {
 
     @Override
     public void getSquare() {
-        System.out.println("Pryamokutnyk Square = " + storona1 * storona2);
+        System.out.println("Pryamokutnyk  Square = " + storona1 * storona2);
     }
 
 }
