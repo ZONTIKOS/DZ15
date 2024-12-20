@@ -4,7 +4,7 @@ public class Main {
     public static void main(String[] args) {
         Pryamokutnyk pryamokutnyk = new Pryamokutnyk(2,3);
         pryamokutnyk.getSquare();
-        kolo kolo = new kolo(12);
+        Kolo kolo = new Kolo(12);
         kolo.getSquare();
         Trikutnik trikutnik = new Trikutnik(3,4);
         trikutnik.getSquare();
